@@ -41,3 +41,7 @@ To view the logs in PM2, open CMD using the SHIFT + MAUSE RIGHT shortcut on the 
 and then type the pm2 logs command.
 ![image](https://github.com/takachim/pm2-guide/assets/109786377/90a2fefb-f71f-4bb1-ba73-f30b7f90b408)
 
+
+# Contact me
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/149284207833645056)](https://discord.com/users/149284207833645056)
