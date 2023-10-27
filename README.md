@@ -2,7 +2,7 @@
 A Basic pm2 guide :)
 
 
-## Usage
+# Usage
 Download the bots and node modules you want to use by pressing the SHIFT + MOUSE RIGHT shortcut.
 Then create the ecosystem.confi.js file, briefly as follows:
 
@@ -25,7 +25,7 @@ module.exports = {
 ]
 ```
 
-### Runing System
+# Runing System
 If all your config and systems are ready, open CMD using the SHIFT + MAUSE RIGHT shortcut in the folder where the bots are located and
 Create a clean package.json file with the npm init -y command.
 Then type npm i pm2@latest -g -s after the download is completed.
@@ -33,10 +33,10 @@ It will be enough to type pm2 start.
 
 ![image](https://github.com/takachim/pm2-guide/assets/109786377/6976ebea-245e-4071-996c-9f6b8926e9d6)
 
-#### Closing the system
+# Closing the system
 If you want to close the sistem just use pm2 kill command.
 
-##### How to see the logs?
+# How to see the logs?
 To view the logs in PM2, open CMD using the SHIFT + MAUSE RIGHT shortcut on the desktop.
 and then type the pm2 logs command.
 ![image](https://github.com/takachim/pm2-guide/assets/109786377/90a2fefb-f71f-4bb1-ba73-f30b7f90b408)
