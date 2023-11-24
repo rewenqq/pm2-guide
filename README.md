@@ -22,7 +22,8 @@ module.exports = {
             max_memory_restart: "500M",
             cwd: "./takachi-ai" //file path
           },
-]
+    ]
+}
 ```
 
 # Runing System
