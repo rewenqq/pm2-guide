@@ -4,7 +4,7 @@ A Basic pm2 guide :)
 
 # Usage
 Download the bots and node modules you want to use by pressing the SHIFT + MOUSE RIGHT shortcut.
-Then create the ecosystem.confi.js file, briefly as follows:
+Then create the ecosystem.config.js file, briefly as follows:
 
 ![image](https://github.com/takachim/pm2-guide/assets/109786377/2c7dd98d-28e4-456d-813e-f98f36bb79be)
 
